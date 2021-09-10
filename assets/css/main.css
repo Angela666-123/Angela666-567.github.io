@@ -1,0 +1,89 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+	background-color: rgb(231, 226, 154);
+}
+
+a {
+	color:red;
+}
+
+div{
+	color: blue;
+}
+
+div.name{
+	color: brown;
+	font-size: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+div.project1{
+	color: darkblue;
+	font-size: 50px;
+	margin-left: 30cm;
+	margin-top: 5cm;
+}
+
+div.project2{
+	color: darkblue;
+	font-size: 50px;
+	margin-left: 30cm;
+	margin-top: 3cm;
+}
+
+div.project3{
+	color: darkblue;
+	font-size: 50px;
+	margin-left: 30cm;
+	margin-top: 3cm;
+}
+
+div.project4{
+	color: darkblue;
+	font-size: 50px;
+	margin-left: 30cm;
+	margin-top: 3cm;
+}
+
+div.project5{
+	color: darkblue;
+	font-size: 50px;
+	margin-left: 30cm;
+	margin-top: 3cm;
+}
+
+img {
+	width:800px;
+	margin-left: 3cm;
+	margin-top: 3cm;
+}
+
+/* text */
+
+body.text{
+	background-color: rgb(127, 192, 192);
+}
+
+.into{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.portrait {
+	text-align: center;
+
+}
+
+.bio{
+	width:50%
+    text-align: center;
+	margin-top: 3cm;
+}
+
+.Topic{
+	color: rgb(16, 16, 88);
+	font-size: 100px;
+	text-align: center;
+	text-decoration: underline;
